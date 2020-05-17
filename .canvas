@@ -1,4 +1,6 @@
 ---
-:page_id: 3506
-:course_id: 239
-:canvas_url: https://learning.flatironschool.com/courses/239/pages/tcg-ydkjs
+:lessons:
+- :id: 3985
+  :course_id: 272
+  :canvas_url: https://learning.flatironschool.com/courses/272/pages/tcg-ydkjs
+  :type: page
